@@ -9,13 +9,13 @@ Automated test suite for the **Singlish to Sinhala Chat Translator** using Playw
 ## 📋 Overview
 
 This project automates testing of the chat translator application by:
-- Reading 200 test cases from an Excel file
+- Reading 50 test cases from an Excel file
 - Sending Singlish inputs to the translator
 - Capturing actual outputs
 - Comparing with expected outputs
 - Logging Pass/Fail results
 
-**Test Coverage:** 200 test cases across multiple input categories (Questions, Commands, Greetings, Requests, Responses)
+**Test Coverage:** 50 test cases across multiple input categories (Questions, Commands, Greetings, Requests, Responses)
 
 ---
 
